@@ -26,3 +26,4 @@ Lets test Git Branching - Nidhi
 
 Lets test Git Squash and merge 
 Commit 1
+Commit 2
