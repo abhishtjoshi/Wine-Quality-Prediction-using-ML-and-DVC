@@ -23,3 +23,6 @@ git add .
 git commit -m "first commit"
 
 Lets test Git Branching - Nidhi
+
+Lets test Git Squash and merge 
+Commit 1
