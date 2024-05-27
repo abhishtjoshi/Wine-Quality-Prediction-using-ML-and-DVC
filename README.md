@@ -22,18 +22,6 @@ git add .
 
 git commit -m "first commit"
 
-Lets test Git Branching - Nidhi
 
-Lets test Git Squash and merge 
-Commit 1
-Commit 2
-Commit 3
 
 Abhisht here added a comment in the main branch
-
-
-Commit 4
-Commit 5
-
-Adding comments for rebase
-
